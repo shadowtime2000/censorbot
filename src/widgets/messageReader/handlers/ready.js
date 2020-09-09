@@ -1,3 +1,3 @@
 module.exports = async () => {
-    console.log("messageReader: ready");
-}
+  console.log("messageReader: ready");
+};
